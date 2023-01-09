@@ -1,1 +1,1 @@
-# Device Tree for Xiaomi MI MAX 2 (oxygen)
+# Device Tree for 10or G (G)

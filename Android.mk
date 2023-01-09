@@ -6,7 +6,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),oxygen)
+ifeq ($(TARGET_DEVICE),G)
 include $(call all-makefiles-under,$(LOCAL_PATH))
 
 endif
